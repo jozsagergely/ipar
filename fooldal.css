@@ -1,8 +1,10 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: url('hatter.jpg');
+ 
     margin: 20px;
+   background-image: url("hatter.jpg");
     padding: auto;
+    
   }
   
   header {
