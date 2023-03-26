@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
  
     margin: 20px;
-   background-image: url("hatter.jpg");
+    background-color: #ffe4c4;
     padding: auto;
     
   }
@@ -68,3 +68,14 @@ a{
   color: black;
   text-decoration: none;
 }
+
+.swap img:last-child{display:none}
+.swap:hover img:first-child{
+    display:none;
+    box-shadow: 10px 10px 10px rgb(230, 191, 19) ;
+                                    
+}
+.swap:hover img:last-child{
+    box-shadow: 10px 10px 10px rgb(230, 191, 19) ;
+    display:inline-block}
+
