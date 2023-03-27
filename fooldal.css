@@ -98,3 +98,12 @@ display:inline-block}
     box-shadow: 10px 10px 10px rgb(78, 77, 77) ;
 }
 
+.henry{
+    float:right;
+}
+.fred{
+    position: absolute;
+    float:right;
+    height: 50px;
+}
+
